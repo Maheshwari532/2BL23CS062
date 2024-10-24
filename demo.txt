@@ -1,8 +1,13 @@
 Good Morning
 Welcome to git lab
 Hello
+<<<<<<< HEAD
 goodmorning...!
 welcome to cse department.
 cherry pick command
 good evening
 well......!
+=======
+hi everyone
+hurrah...!
+>>>>>>> 64db78b (happy)

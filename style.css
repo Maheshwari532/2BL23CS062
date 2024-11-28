@@ -1,0 +1,21 @@
+h1{
+    font: optional;
+    font-size: 50px;
+    color: blueviolet;
+    border-color: black;
+    font-family: cursive;
+}
+body{
+    background-color: rgb(251, 222, 243);
+}
+p{
+    color: rgb(7, 6, 94);
+    font-size: 55px;
+    border: 2px solid rgb(7, 15, 16);
+    padding: 30px;
+    padding-left: 100px;
+    margin: 50px;
+    font-family: cursive;
+}
+
+ 

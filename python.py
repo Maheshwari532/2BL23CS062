@@ -16,15 +16,19 @@ print(tup[1])
 print(tup[2])
 
 print("Hello World")
+#wrd=input()
+flag=False
 wrd=input()
 word="Hello World"
 for wrd in word:
-    if wrd in word:
-        flag=True
-        break
-    else:
-        flag=False
-if flag==False:
-    print("False")
+    #print(wrd)
+    flag=True
+    #if wrd in word:
+      #  flag=True
+       # break
+   # else:
+      # flag=False
+if flag==True:
+    print("Char found")
 else:
-    print("True")        
+    print("Char not found")        
